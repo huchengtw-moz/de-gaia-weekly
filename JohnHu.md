@@ -1,14 +1,14 @@
 ## 03/16 - 03/20 ##
 ### Last Week ###
-  -[Bug 1141887](http://bugzil.la/1141887) - [Stingray] apply focus manager to app window related UIs
-    - land the patch
-  - Prepare change items in smart system app
-    - http://goo.gl/cTzFJU
-
-### This Week ###
   - Prepare change items in smart system app
     - Read the patch one by one to finish the slides
       - http://goo.gl/cTzFJU
+  - Read W3C WAI-ARIA specs
+
+### This Week ###
+  - Prepare change items in smart system app
+    - http://goo.gl/cTzFJU
+  - Discuss on how to merge
 
 ## 03/09 - 03/13 ##
 ### Last Week ###
